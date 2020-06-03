@@ -9,3 +9,8 @@ Rasa 聊天机器人框架使用
 https://rasa.com/
 https://github.com/RasaHQ/rasa
 
+Awesome Knowledge Graph
+http://shaoxiong.rocks/awesome-knowledge-graph/
+https://github.com/shaoxiongji/awesome-knowledge-graph
+
+
