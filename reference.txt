@@ -13,4 +13,12 @@ Awesome Knowledge Graph
 http://shaoxiong.rocks/awesome-knowledge-graph/
 https://github.com/shaoxiongji/awesome-knowledge-graph
 
+文本生成14：ConceptFlow，概念流引导对话生成：Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs
+https://github.com/thunlp/ConceptFlow
+
+
+
+
+
+
 
