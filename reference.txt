@@ -16,8 +16,8 @@ https://github.com/shaoxiongji/awesome-knowledge-graph
 文本生成14：ConceptFlow，概念流引导对话生成：Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs
 https://github.com/thunlp/ConceptFlow
 
-
-
+对话系统（任务型、检索式、生成式对话论文与工具串讲）
+https://zhuanlan.zhihu.com/p/83825070
 
 
 
