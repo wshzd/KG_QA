@@ -19,6 +19,19 @@ https://github.com/thunlp/ConceptFlow
 对话系统（任务型、检索式、生成式对话论文与工具串讲）
 https://zhuanlan.zhihu.com/p/83825070
 
+使用NLG增强QA任务性能
+https://mp.weixin.qq.com/s/2Fj819bPv_OLT1aaK3YJpw
+[1]toolkit4nlp: https://github.com/xv44586/toolkit4nlp
+[2]UniLM论文: https://arxiv.org/pdf/1905.03197.pdf
+[3]qa_baseline: https://github.com/xv44586/toolkit4nlp/blob/master/examples/qa_baseline.py
+[4]qa_question_generation_seq2seq: https://github.com/xv44586/toolkit4nlp/blob/master/examples/qa_question_generation_seq2seq.py
+[5]qa_question_answer_generation_seq2seq: https://github.com/xv44586/toolkit4nlp/blob/master/examples/qa_question_answer_generation_seq2seq.py
+
+
+
+
+
+
 
 
 
